@@ -18,7 +18,8 @@ Created an interactive Power BI dashboard analyzing product revenue, growth tren
 📁 Project Files
 	•	product_data.xlsx
 	•	product_dashboard.pbix
-	•	Dashboard screenshots
+	•	![image](https://github.com/user-attachments/assets/fa050139-2938-43c8-afaa-143a55665bc6)
+
 
 ⸻
 
