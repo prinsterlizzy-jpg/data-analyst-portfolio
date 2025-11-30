@@ -16,7 +16,8 @@ Analyzed sales data stored in a relational database using SQL to extract busines
 
 📁 Project Files
 	•	sales_analysis.sql
-	•	ER Diagram (optional)
+	•![Uploading image.png…]()
+
 	•	Query outputs
 
 ⸻
