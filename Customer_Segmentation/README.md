@@ -17,7 +17,8 @@ Segmented customers based on demographics and spending behavior using Google She
 📁 Project Files
 	•	customers.csv
 	•	customer_segmentation.xlsx
-	•	Segmentation dashboard screenshots
+	•	![image](https://github.com/user-attachments/assets/1a7f954f-c138-42cf-87fd-67a5427e045e)
+
 
 ⸻
 
