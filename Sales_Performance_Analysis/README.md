@@ -19,7 +19,8 @@ This project analyzes 12 months of sales data using Excel and Python (Pandas, Ma
 	•	sales_data.csv
 	•	sales_analysis.py
 	•	sales_template.xlsx
-	•	monthly_sales_trend.png
+	•	<img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/975c33e2-e6ad-4d20-90b3-48f556c6fcaa" />
+
 	•	Report PDF 
 
 ⸻
