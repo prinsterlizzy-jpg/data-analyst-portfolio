@@ -136,5 +136,7 @@ I work with accuracy, attention to detail, and a commitment to continuous learni
 ⸻
 
 ⭐ Thank You for Visiting My Portfolio
+       download my resume👇👇
+https://github.com/prinsterlizzy-jpg/data-analyst-portfolio/blob/main/Cv.pdf
 
 Feel free to explore the folders and reach out for collaboration, hiring, or projects!
