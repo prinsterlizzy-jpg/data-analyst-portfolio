@@ -132,11 +132,11 @@ I work with accuracy, attention to detail, and a commitment to continuous learni
 📧 Email: prinsterlizzy@gmail.com
 🔗 LinkedIn: https://www.linkedin.com/in/akingbade-bukola
 💻 GitHub: prinsterlizzy-jpg
-
+<a href="https://github.com/prinsterlizzy-jpg/data-analyst-portfolio/blob/main/Cv.pdf?raw=true" download class="btn">
+  📄 Download My Resume
+</a>
 ⸻
 
 ⭐ Thank You for Visiting My Portfolio
-       download my resume👇👇
-https://github.com/prinsterlizzy-jpg/data-analyst-portfolio/blob/main/Cv.pdf
-
+       
 Feel free to explore the folders and reach out for collaboration, hiring, or projects!
